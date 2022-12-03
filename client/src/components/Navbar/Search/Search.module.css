@@ -1,0 +1,22 @@
+.input{
+    box-shadow: 2px border-box;
+    margin-left: 10px;
+    padding: 10px 5px;
+    margin-top: 5px;
+}
+
+.button{
+    display: inline-block;    
+    border: none;
+    border-radius: 15px;
+    padding: 10px 25px;
+    margin: 0 10px 0 10px;
+    background: #f44336;
+    color: #fff;
+    font-size: 15px;
+}
+
+.button:hover{
+    background: #fff;
+    color: rgb(65, 131, 232);;
+}
